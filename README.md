@@ -1,5 +1,6 @@
 # Aligning_Defocus_series(LTEM)
 
+# 1st Version
 This is a MATLAB script to align Stack-TEM images by applyng Contrast stretching, Gaussian filtering, Tight masking, and COM method.
 
 Brifely, the process follows the procedures in bellow:
@@ -10,3 +11,5 @@ Brifely, the process follows the procedures in bellow:
   5. COM align (Center-of-mass align) to the masking result. During this process, we can find how we have to shift each images to make the center of the target at the center of the image window (Named "Shift Coefficient").
   6. with the Shift Coefficients, move raw TEM images.
 
+# 2nd Version
+This is a MATLAB script to align Stack-TEM images by applyng Contrast stretching, Gaussian filtering and Fast-Normalized-Cross-correlation method
