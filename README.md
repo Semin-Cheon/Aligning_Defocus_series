@@ -1,4 +1,4 @@
-# Aligning_Defocus_series(TEM)
+# Aligning_Defocus_series(LTEM)
 
 This is a MATLAB script to align Stack-TEM images by applyng Contrast stretching, Gaussian filtering, Tight masking, and COM method.
 
