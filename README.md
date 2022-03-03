@@ -1,7 +1,8 @@
 # Aligning_Defocus_series(TEM)
 
 This is a MATLAB script to align Stack-TEM images by applyng Contrast stretching, Gaussian filtering, Tight masking, and COM method.
- Brifely, the process of masking has a procedure:
+
+Brifely, the process of masking has a procedure:
   1. Contrast stretching To TEM images to distinguish a target and boundary more clearly.
   2. Gaussian filtering to the result of "1." to neglect the effect of diffraction so that there is no dark-cross line inside a target.
   3. Tighit Masking
